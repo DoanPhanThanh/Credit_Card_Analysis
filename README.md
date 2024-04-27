@@ -21,10 +21,10 @@ In the pursuit of enhancing oversight over credit card operations, the objective
 ## Key Insights
 - WoW change:
   - Revenue Growth: Revenue surged by an impressive 28.8%, indicating robust financial performance and increased profitability.
-  - Transaction Volume Increase: Total transaction volume at ATMs and overall transaction count experienced significant growth, rising by 35% and 3.4% respectively. This uptrend suggests heightened consumer activity and engagement with credit card services.
+  - Transaction Volume Increase: Total transaction amt and overall transaction count experienced significant growth, rising by 35% and 3.4% respectively. This uptrend suggests heightened consumer activity and engagement with credit card services.
   - Customer Expansion: The customer base expanded by 12.8%, indicating successful acquisition and retention strategies. This growth in clientele underscores the appeal and effectiveness of the credit card offerings.
 - Year-to-Date Performance:
-  - Revenue Breakdown: Overall revenue reached $57 million, with notable contributions from male customers totaling $30.9 million, surpassing that of female customers at $25.6 million. This gender-based revenue distribution highlights potential areas for targeted marketing and service enhancement.
+  - Revenue Breakdown: Overall revenue reached 7 million, with notable contributions from male customers totaling 31 million, surpassing that of female customers at 26 million. This gender-based revenue distribution highlights potential areas for targeted marketing and service enhancement.
   - Transaction Insights: Blue and Silver credit cards emerged as frontrunners, accounting for a substantial 93% of overall transactions. This insight underscores the popularity and utilization of these card types among customers.
   - Geographical Contribution: States such as TX, NY, and CA collectively contributed 68% to overall transaction volumes, indicating regional variations in credit card usage patterns. This geographical insight could inform targeted marketing campaigns and localized service strategies.
   - Activation and Delinquency Rates: The activation rate stood at 57.5%, suggesting effective onboarding processes. However, the delinquent rate registered at 6.06%, indicating a potential area for risk mitigation and customer support initiatives.
