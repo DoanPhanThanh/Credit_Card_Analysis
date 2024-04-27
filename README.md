@@ -18,7 +18,7 @@ In the pursuit of enhancing oversight over credit card operations, the objective
   - Table: Customer_Job and Revenue, Total_Trans_Amt, Income
   - Line Chart: Revenue vs Gender on Weekly basis
 
-## Key Insights
+## Key Insights - Week 53 (31st Dec)
 - WoW change:
   - Revenue Growth: Revenue surged by an impressive 28.8%, indicating robust financial performance and increased profitability.
   - Transaction Volume Increase: Total transaction amt and overall transaction count experienced significant growth, rising by 35% and 3.4% respectively. This uptrend suggests heightened consumer activity and engagement with credit card services.
