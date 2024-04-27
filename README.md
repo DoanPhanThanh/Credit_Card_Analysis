@@ -18,6 +18,10 @@ In the pursuit of enhancing oversight over credit card operations, the objective
   - Table: Customer_Job and Revenue, Total_Trans_Amt, Income
   - Line Chart: Revenue vs Gender on Weekly basis
 
+## Dashboard
+<img width="950" alt="Customer" src="https://github.com/DoanPhanThanh/Credit_Card_Analysis/blob/f4b3f6f19f00172677aacd41fb6e7fbbec68e868/Credit%20Card%20Customer%20Report.png">
+<img width="950" alt="Transaction" src="https://github.com/DoanPhanThanh/Credit_Card_Analysis/blob/f4b3f6f19f00172677aacd41fb6e7fbbec68e868/Credit%20Card%20Transaction%20Report.png">
+
 ## Key Insights - Week 53 (31st Dec)
 - WoW change:
   - Revenue Growth: Revenue surged by an impressive 28.8%, indicating robust financial performance and increased profitability.
